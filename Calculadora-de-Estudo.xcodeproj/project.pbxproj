@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9306B9C6280F9689003A28E6 /* Calculadora de Estudo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Calculadora de Estudo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9306B9C6280F9689003A28E6 /* Calculadora-de-Estudo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Calculadora-de-Estudo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9306B9C9280F9689003A28E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9306B9CB280F9689003A28E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		9306B9CD280F9689003A28E6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		9306B9C7280F9689003A28E6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9306B9C6280F9689003A28E6 /* Calculadora de Estudo.app */,
+				9306B9C6280F9689003A28E6 /* Calculadora-de-Estudo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -79,9 +79,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9306B9C5280F9689003A28E6 /* Calculadora de Estudo */ = {
+		9306B9C5280F9689003A28E6 /* Calculadora-de-Estudo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9306B9DA280F968A003A28E6 /* Build configuration list for PBXNativeTarget "Calculadora de Estudo" */;
+			buildConfigurationList = 9306B9DA280F968A003A28E6 /* Build configuration list for PBXNativeTarget "Calculadora-de-Estudo" */;
 			buildPhases = (
 				9306B9C2280F9689003A28E6 /* Sources */,
 				9306B9C3280F9689003A28E6 /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = "Calculadora de Estudo";
+			name = "Calculadora-de-Estudo";
 			productName = "Calculadora de Estudo";
-			productReference = 9306B9C6280F9689003A28E6 /* Calculadora de Estudo.app */;
+			productReference = 9306B9C6280F9689003A28E6 /* Calculadora-de-Estudo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9306B9C1280F9689003A28E6 /* Build configuration list for PBXProject "Calculadora de Estudo" */;
+			buildConfigurationList = 9306B9C1280F9689003A28E6 /* Build configuration list for PBXProject "Calculadora-de-Estudo" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +124,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9306B9C5280F9689003A28E6 /* Calculadora de Estudo */,
+				9306B9C5280F9689003A28E6 /* Calculadora-de-Estudo */,
 			);
 		};
 /* End PBXProject section */
@@ -351,7 +351,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9306B9C1280F9689003A28E6 /* Build configuration list for PBXProject "Calculadora de Estudo" */ = {
+		9306B9C1280F9689003A28E6 /* Build configuration list for PBXProject "Calculadora-de-Estudo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9306B9D8280F968A003A28E6 /* Debug */,
@@ -360,7 +360,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9306B9DA280F968A003A28E6 /* Build configuration list for PBXNativeTarget "Calculadora de Estudo" */ = {
+		9306B9DA280F968A003A28E6 /* Build configuration list for PBXNativeTarget "Calculadora-de-Estudo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9306B9DB280F968A003A28E6 /* Debug */,
