@@ -1,2 +1,4 @@
 # Calculadora-de-Estudo
-aaaa
+Criaçao de uma calculadora para mobile ultilizando a linguagem Swift com Storyboard
+
+
