@@ -13,6 +13,7 @@ Creating a mobile calculator using a Swift language with Storyboard
 
 <h2> Preview </h2>
 
-https://user-images.githubusercontent.com/102704880/177838930-99db2f2e-da7c-4901-a78f-d73b6b773a85.mov
+https://user-images.githubusercontent.com/102704880/177839913-4d01c583-fb22-4587-a239-4b2c7f90ffda.mov
+
 
 
