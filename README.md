@@ -13,7 +13,7 @@ Creating a mobile calculator using a Swift language with Storyboard
 
 <h2> Preview </h2>
 
-<img>![Calculadora de Estudo Video 2](https://user-images.githubusercontent.com/102704880/177997021-9e0ae989-a7fd-4f36-82b6-81bc33b32065.gif) width="250" height="500"</img>
+<img src="https://user-images.githubusercontent.com/102704880/178002858-277c4041-876d-473d-971e-8296311f5c3b.gif" width="250" height="500" />
 
 
 
