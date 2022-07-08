@@ -16,7 +16,7 @@ class Estudo {
         self.materia = materia
         self.dias = dias
         self.horas = horas
-        //a
+        
     }
     
     
