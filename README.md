@@ -8,7 +8,7 @@ Creating a mobile calculator using a Swift language with Storyboard
 </p>
 
 <h2> Development </h2>
-<p> In this challenge I was able to put into practice my first knowledge in Swift language using the storyboard. Using UIKit I was able to work with views, pickerview and tableview.
+<p> In this challenge I was able to put into practice my first knowledge in Swift language using the Storyboard. Using UIKit I was able to work with views, pickerview and tableview.
 </p>
 
 <h2> Preview </h2>
