@@ -7,7 +7,7 @@ Criando uma calculadora para mobile utilizando a linguagem Swift com Storyboard
 <p> Neste aplicativo você pode inserir qualquer assunto que deseja estudar, inserindo estes dados: assunto, número de dias e número de horas. Conforme os dados são inseridos, você pode acompanhar o histórico através de uma lista!
 </p>
 
-<h2> Desenvolviemento</h2>
+<h2> Desenvolvimento</h2>
 <p> 
 Neste desafio pude colocar em prática meus primeiros conhecimentos na linguagem Swift utilizando o Storyboard. Usando o UIKit consegui trabalhar com views, pickerview e tableview.
 </p>
